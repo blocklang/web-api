@@ -5,7 +5,7 @@
     "category": "WebAPI",
     "language": "TypeScript",
     "std": false,
-    "dev": true,
+    "dev": false,
     "appType": "web",
     "api": {
         "git": "https://github.com/blocklang/api-web-api.git",
