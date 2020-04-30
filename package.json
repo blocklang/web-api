@@ -1,6 +1,6 @@
 {
-    "name": "web-api",
-    "version": "0.0.1",
+    "name": "@blocklang/web-api",
+    "version": "0.0.1-alpha.1",
     "displayName": "",
     "repository": {
         "type": "git",
