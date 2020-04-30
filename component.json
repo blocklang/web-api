@@ -1,0 +1,17 @@
+{
+    "name": "web-func",
+    "displayName": "",
+    "description": "",
+    "category": "WebAPI",
+    "language": "TypeScript",
+    "std": false,
+    "dev": true,
+    "appType": "web",
+    "api": {
+        "git": "https://github.com/blocklang/api-web-api.git",
+        "version": "0.0.1"
+    },
+    "components": [
+        "src/console"
+    ]
+}
