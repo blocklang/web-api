@@ -20,7 +20,6 @@
     },
     "dependencies": {
         "@dojo/framework": "7.0.0-rc.2",
-        "designer-core": "~0.0.1-alpha.83",
         "tslib": "~1.11.1"
     },
     "devDependencies": {
